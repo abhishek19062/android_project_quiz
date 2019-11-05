@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="title_activity_3">Activity3</string>
+    <string name="welcome">Welcome to my quiz</string>
+    <string name="name_enter">enter your name</string>
+    <string name="title1">hello, your first question</string>
+    <string name="question1">Captal of India is New Delhi?</string>
+    <string name="question2">Canberra is the capital of Austria?</string>
+    <string name="titl2">hello, your second question</string>
+    <string name="result">you have sucessfully completed the quiz, your score is</string>
+</resources>
